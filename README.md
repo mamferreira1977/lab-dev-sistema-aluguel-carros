@@ -38,6 +38,12 @@
 ### 4- Diagrama de Pacotes
 
 
+---
+### 5-Diagrama de Componentes
+
+<img width="510" height="728" alt="Diagrama de Componentes" src="https://github.com/user-attachments/assets/b97c1376-16bb-48a5-9223-c93d91775db8" />
+
+
 
 
 
