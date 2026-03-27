@@ -1,6 +1,6 @@
 # CRUD de Cliente com MySQL
 
-Projeto em Java 17 com Spring Boot, Spring MVC, Thymeleaf, JPA e MySQL.
+Projeto em Java 17 com Spring Boot, Spring MVC, JPA e MySQL.
 
 ## Campos do CRUD e do banco de dados
 Na sequência solicitada:
@@ -13,12 +13,8 @@ Na sequência solicitada:
 7. Rendimentos
 
 ## Como executar
-1. Crie ou utilize o banco `aluguel_carros` no MySQL.
-2. Abra o projeto no IntelliJ.
-3. Altere a senha do MySQL em `src/main/resources/application.properties`.
-4. Aguarde o Maven carregar.
-5. Rode a classe `CrudClienteApplication`.
-6. Acesse `http://localhost:8081/clientes`.
+1. Crie ou utilize o banco `aluguel_carros` no MySQL.        
+2. Acesse `http://localhost:8081/clientes`.
 
 ## Consulta no MySQL
 ```sql
